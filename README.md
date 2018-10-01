@@ -1,0 +1,2 @@
+# flamingobot
+discord bot 
